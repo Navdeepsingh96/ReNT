@@ -114,10 +114,6 @@
 				echo "<a href=chatapp/chat/login.php?loginid=",$loginid," class='nav-link'>Chat With A Doctor</a></li>";
 				?>
 				
-				<li class="nav-item">
-				<?php
-				echo "<a href=chatapp/chat/login.php?loginid=",$loginid," class='nav-link'>Chat With A Doctor</a></li>";
-				?>
 				
 				<li class="nav-item">
 				<?php
@@ -238,7 +234,7 @@
                 echo "<a href=chatapp/chat/login.php?loginid=",$loginid," ><h3 class='heading'> Chat With A Doctor</h3></a>";
 				
 				?>
-                <p>Check Appointments with our qualified and experienced nurses.</p>
+                <p>No matter the time care would be delivered.</p>
               </div>
             </div>      
           </div>
